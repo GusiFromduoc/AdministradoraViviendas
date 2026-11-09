@@ -1,0 +1,10 @@
+[
+  {
+    "piso": 4,
+    "gastoComunAlDia": true,
+    "estacionamientoAsignado": true,
+    "codigo": "DP-001",
+    "superficie": 80.0,
+    "habitaciones": 4
+  }
+]
